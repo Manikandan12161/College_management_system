@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+    padding: 20px;
+}
+.container {
+    width: 700px;
+    margin: auto;
+    background: white;
+    padding: 20px;
+    box-shadow: 0 0 10px #ccc;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 15px;
+}
+th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+a {
+    color: #007bff;
+    text-decoration: none;
+}
+input, select {
+    display: block;
+    margin-bottom: 10px;
+    padding: 8px;
+    width: 100%;
+}
